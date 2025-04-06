@@ -6,10 +6,10 @@
 
 ### Частина I — Основи програмування
 
-- [x] Глава 1: Getting Started
-- [x] Глава 2: Variables and Simple Data Types
-- [ ] Глава 3: Introducing Lists
-- [ ] Глава 4: Working with Lists
+- [✅] Глава 1: Getting Started
+- [✅] Глава 2: Variables and Simple Data Types
+- [✅] Глава 3: Introducing Lists
+- [✅] Глава 4: Working with Lists
 - [ ] Глава 5: if Statements
 - [ ] Глава 6: Dictionaries
 - [ ] Глава 7: User Input and while Loops
